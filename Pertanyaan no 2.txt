@@ -1,0 +1,42 @@
+HUKUMAN JOINST
+
+
+Hans lupa untuk mengerjakan tugas yang diberikan guru kemarin karena semalam dia sibuk main game joints. Oleh karenanya dia dihukum oleh gurunya sepulang sekolah.
+
+Hans disuruh untuk membersihkan papan tulis. Tidak hanya itu saja, Hans juga harus menuliskan semua bilangan dari  sampai  secara mendatar terurut di papan tulis. Karena Hans ingin cepat pulang dan melanjutkan main game joints, ia tidak menuliskan beberapa angka. Misalkan apabila ia tidak menuliskan angka  dan , maka bilangan  ia tulis ,  ia tulis ,  ia tulis .
+
+Setelah ia selesai, ia melaporkan kepada gurunya bahwa telah selesai. Gurunya mengeceknya dengan teliti lalu menyadari bahwa ada angka yang tidak ditulis Hans. Gurunya semakin marah lalu Hans mendapat tambahan hukuman. Hans disuruh untuk menjumlahkan seluruh angka yang ia tulis di papan tulis. Bantulah Hans.
+
+Input Format
+
+Baris pertama berisi  dan , dimana  adalah banyaknya bilangan yang harus ditulis Hans dan  adalah banyaknya angka yang tidak ditulis Hans
+Baris kedua berisi  bilangan yaitu , , ...,  yang merupakan angka apa saja yang tidak ditulis Hans
+
+Constraints
+
+ berbeda satu sama lain
+Output Format
+
+Berisi satu bilangan yang merupakan jumlah seluruh angka yang tertulis di papan tulis
+
+Sample Input 0
+
+15 2
+4 7
+Sample Output 0
+
+51
+Explanation 0
+
+Bilangan yang ditulis Hans adalah , sehingga jumlahnya adalah 
+
+Sample Input 1
+
+15 10
+0 1 2 3 4 5 6 7 8 9
+Sample Output 1
+
+0
+Explanation 1
+
+Tidak ada bilangan yang ditulis Hans, sehingga jumlahnya adalah 
